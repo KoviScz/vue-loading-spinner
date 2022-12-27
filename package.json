@@ -1,8 +1,9 @@
 {
-  "name": "vue-loading-spinner",
-  "version": "1.0.0",
+  "name": "vue-loading-spinner-node-18",
+  "version": "1.2.0",
   "description": "Loading spinner collection for Vuejs updates for node 18. ",
-  "author": "nguyenvanduoc (nguyenvanduocit@gmail.com)",
+  "author": "KoviScz <kcortegav@gmail.com>",
+  "contributors":"nguyenvanduoc (nguyenvanduocit@gmail.com)" ,
   "licenses": "MIT",
   "scripts": {
     "build": "webpack -c build/webpack.conf.js --mode=production",
@@ -10,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/KoviScz/vue-loading-spinner.git"
+    "url": "git+https://github.com/KoviScz/vue-loading-spinner.git"
   },
   "main": "dist/vue-loading-spinner.js",
   "dependencies": {
@@ -61,5 +62,13 @@
     "last 2 versions",
     "not ie <= 8",
     "ie 11"
+  ],
+  "bugs": {
+    "url": "https://github.com/KoviScz/vue-loading-spinner/issues"
+  },
+  "homepage": "https://github.com/KoviScz/vue-loading-spinner#readme",
+  "keywords": [
+    "vue--loading-spinner",
+    "vue--loading-spinner-node-18"
   ]
 }

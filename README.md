@@ -1,16 +1,17 @@
 # vue-loading-spinner
+This is a fork package of vue-loading-spinner upgraded to node 18 version
 
-> Just another collection of loading spinners with Vue.js
+> Just another collection of loading spinners with Vue2.js
 
 ## Installation
 
 ``` bash
-npm install --save vue-loading-spinner
+npm install --save vue-loading-spinner-node-18
 ```
 or
 
 ``` bash
-yarn add vue-loading-spinner
+yarn add vue-loading-spinner-node-18
 ```
 
 ## Usage
@@ -34,8 +35,4 @@ yarn add vue-loading-spinner
 
 ## Demo
 
-List of all spinner: [Demo](https://nguyenvanduocit.github.io/vue-loading-spinner/)
-
-## Development Setup
-
-Checkout branch `develop`
+A list of all the demos in the package can be found at the following link: [Demo](https://nguyenvanduocit.github.io/vue-loading-spinner/)
